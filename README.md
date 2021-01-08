@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on upgrading my Windows 95 build.
+- 🔭 I’m currently working on upgrading my Windows 95 build and making a GitHub website.
 - 🌱 I’m currently learning basic white-hat hacking.
 - 👯 I’m looking to collaborate on nothing as of yet.
 - 🤔 I’m looking for help with aquiring ISA sound cards.
