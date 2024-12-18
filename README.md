@@ -43,4 +43,4 @@ My website doesn't exist right now! Getting a Raspberry Pi soon to fix that, tho
 These badges were made with: [md-badges](https://github.com/inttter/md-badges?) & [Badges4](https://github.com/alexandresanlim/Badges4-README.md-Profile)
 
 <hr>
-<p align="center"><i>Idea for this about me shamelessly stolen from <a href="https://github.com/moonrisesunset">MoonriseSunset</a></i><br><img alt="funny" src="https://img.shields.io/static/v1?label=(:&message=~/~/~/~/&colorA=FFFF11&colorB=87b18b"></p>
+<p align="center"><i>Idea for this about me shamelessly stolen from <a href="https://github.com/moonrisesunset">MoonriseSunset</a></i><br><a href="http://www.ccru.net/swarm1/1_melt.htm"><img alt="funny" src="https://img.shields.io/static/v1?label=(:&message=~/~/~/~/&colorA=FFFF11&colorB=87b18b"></a></p>
