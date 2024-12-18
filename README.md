@@ -34,10 +34,10 @@ My website doesn't exist right now! Getting a Raspberry Pi soon to fix that, tho
 [![nano](https://img.shields.io/badge/nano-a305a6?logo=nano&logoColor=white)](https://www.nano-editor.org/)
 
 ### Operating systems
-[![MacOS](https://img.shields.io/badge/mac%20os-000000?logo=apple&logoColor=white)]()
-[![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white)]()
-[![Windows 10](https://img.shields.io/badge/Windows_10-0078D6?logo=windows&logoColor=white)]()
-[![Raspi](https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=Raspberry%20Pi&logoColor=white)]()
+[![MacOS](https://img.shields.io/badge/mac%20os-000000?logo=apple&logoColor=white)](https://www.apple.com/macos/)
+[![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white)](https://www.debian.org/)
+[![Windows 10](https://img.shields.io/badge/Windows_10-0078D6?logo=windows&logoColor=white)](https://en.wikipedia.org/wiki/Windows_10)
+[![Raspi](https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=Raspberry%20Pi&logoColor=white)](https://www.raspberrypi.com/software/)
 
 # Badge Resources:
 These badges were made with: [md-badges](https://github.com/inttter/md-badges?) & [Badges4](https://github.com/alexandresanlim/Badges4-README.md-Profile)
