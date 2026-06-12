@@ -6,8 +6,6 @@
    <img alt="Language" src="https://img.shields.io/static/v1?label=Language&message=English&colorA=000000&colorB=a8000d">
 </h2>
 
-My website doesn't exist right now! Getting a Raspberry Pi soon to fix that, though.
-
 # What it do
 
 ### Languages
