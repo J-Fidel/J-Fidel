@@ -1,4 +1,4 @@
-<h1>They're waiting for you, Gordon. <i>In the test chamberrr~~~</i></h1>
+<h1>They're waiting for you, Gordon. <i>In the test chamberrr</i></h1>
 
 <h2 align="center">
    <img alt="Pronouns: It/Its" src="https://img.shields.io/static/v1?label=Pronouns&message=it/its&colorA=000000&colorB=eee8aa">
