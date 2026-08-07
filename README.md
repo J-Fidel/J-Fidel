@@ -22,6 +22,7 @@
 
 [![Apache](https://img.shields.io/badge/Apache_Web_Server-D22128?logo=Apache&logoColor=white)](https://httpd.apache.org/)
 [![Markdown](https://img.shields.io/badge/Markdown-000000logo=markdown&logoColor=white)](https://en.wikipedia.org/wiki/Markdown)
+[![Fortinet](https://img.shields.io/badge/Fortinet-D22128?logo=fortinet&logoColor=white)](https://www.fortinet.com)
 [![GH-Pages](https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white)](https://pages.github.com/)
 [![Homebrew](https://img.shields.io/badge/Homebrew-FBB040?logo=homebrew&logoColor=fff)](https://brew.sh/)
 [![Adruino](https://img.shields.io/badge/Arduino-00979D?logo=Arduino&logoColor=white)](https://www.arduino.cc/)
